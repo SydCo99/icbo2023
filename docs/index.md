@@ -1,2 +1,2 @@
-# ICBO: International Conference on Biomedical Ontology
-This is main webpage that is the root of the website. Fill in details about the website, and links to other pages.
+# ICBO 2023: International Conference on Biomedical Ontology
+Welcome to the ICBO 2023 website. 
